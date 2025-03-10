@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/exercicio-lista/exercicio-lista.iml" filepath="$PROJECT_DIR$/exercicio-lista/exercicio-lista.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/exercicios.iml" filepath="$PROJECT_DIR$/.idea/exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursividade/recursividade.iml" filepath="$PROJECT_DIR$/recursividade/recursividade.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
